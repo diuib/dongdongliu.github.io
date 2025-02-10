@@ -5,7 +5,7 @@ title                    : "Dongdong Liu"
 title_separator          : "-"
 name                     : &name "Dongdong Liu"
 description              : &description "A Product Manager with over 10 years of experience in medical information technology"
-url                      : https://academicpages.github.io  # Replace with your own GitHub Pages URL
+url                      : https://diuib.github.io/dongdongliu.github.io  # Replace with your own GitHub Pages URL
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
